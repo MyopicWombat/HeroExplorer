@@ -25,6 +25,7 @@ namespace HeroExplorer.Models
         public string collectionURI { get; set; }
         public List<object> items { get; set; }
         public int returned { get; set; }
+
     }
 
     public class Characters
